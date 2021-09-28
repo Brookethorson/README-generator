@@ -1,13 +1,13 @@
 
 
-<h1 align="center">readme-generator</h1>
+<h1 align="center">test</h1>
 
-https://github.com/Brookethorson/readme-generator
+https://github.com/test/test
 
 ![badge](https://img.shields.io/badge/license-MIT-blue) <br />
 
 ## Description
-The purpose of this project is to develop a dynamic README generator using node.js that allows developers to quickly and easily develop a README file for new projects.
+test
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -18,10 +18,10 @@ The purpose of this project is to develop a dynamic README generator using node.
 
 ## Installation
 To install the necessary dependancies, run the following in console: 
-node.js, npm init, npm inquirer
+test
 
 ## Usage
-This is a test
+test
 
 ## License
 The projects is licensed under: MIT  
@@ -30,13 +30,13 @@ The projects is licensed under: MIT
 
 
 ## Contribution
-​Contributors: Brooke
+​Contributors: test
 
 ## Tests
 To perform necessary tests, run the following in the console:
- node index.js
+ test
 
 ## Questions
-Please reach out at [GitHub](https://github.com/Brookethorson) 
+Please reach out at [GitHub](https://github.com/test) 
 or 
-Contact Brookethorson at thorsonb@gene.com with questions.
+Contact test at test with questions.
