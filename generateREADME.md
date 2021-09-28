@@ -1,6 +1,6 @@
 
 # test
-https://github.com/test/test
+https://github.com//test
 
 ## Description
 test
@@ -13,10 +13,10 @@ test
 * [Contact](#contact)
 
 ## Installation
-To install the necessary dependancies, run the following in console:: test
+To install the necessary dependancies, run the following in console: 
 
 ## Usage
-test
+
 
 ## License
 The projects is licensed under: MIT  
@@ -25,9 +25,9 @@ The projects is licensed under: MIT
 ​Contributors: undefined
 
 # Tests
-To perform necessary tests, run the following in the console: test
+To perform necessary tests, run the following in the console: 
 
 # Questions
-Please reach out at [GitHub](https://github.com/test) 
+Please reach out at [GitHub](https://github.com/) 
 or 
-Contact test at test with questions.
+Contact  at  with questions.

@@ -18,7 +18,7 @@ ${data.description}
 * [Contact](#contact)
 
 ## Installation
-To install the necessary dependancies, run the following in console:: ${data.installation}
+To install the necessary dependancies, run the following in console: ${data.installation}
 
 ## Usage
 ${data.usage}
