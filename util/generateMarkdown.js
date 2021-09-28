@@ -10,6 +10,8 @@ return `
 
 https://github.com/${data.username}/${data.title}
 
+![badge](https://img.shields.io/badge/license-${data.license}-blue) <br />
+
 ## Description
 ${data.description}
 ## Table of Contents 
@@ -21,7 +23,8 @@ ${data.description}
 * [Questions](#questions)
 
 ## Installation
-To install the necessary dependancies, run the following in console: ${data.installation}
+To install the necessary dependancies, run the following in console: 
+${data.installation}
 
 ## Usage
 ${data.usage}
@@ -36,7 +39,8 @@ The projects is licensed under: ${data.license}
 ​Contributors: ${data.contribution}
 
 ## Tests
-To perform necessary tests, run the following in the console: ${data.tests}
+To perform necessary tests, run the following in the console:
+ ${data.tests}
 
 ## Questions
 Please reach out at [GitHub](https://github.com/${data.username}) 
