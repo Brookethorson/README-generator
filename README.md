@@ -34,8 +34,11 @@ The purpose of this project is to develop a dynamic README generator using node.
 * npm inquirer
 
 ## Demonstration
+See the gif below for a snapshot of the applications functionality:
 
+![README Generator Gif](./src/README-generator.gif)
 
+The full functionality demonstration can be found [here](.src\README-generator.webm.crdownload)
 
 ## Author
 
