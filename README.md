@@ -2,8 +2,7 @@
 
 <h1 align="center">test</h1>
 
-![badge](https://img.shields.io/badge/license-GPL 3.0-blue)
-<br />
+https://github.com//test
 
 ## Description
 test
@@ -22,8 +21,8 @@ To install the necessary dependancies, run the following in console:
 
 
 ## License
-The projects is licensed under: GPL 3.0  
-![badge](https://img.shields.io/badge/license-GPL 3.0-blue)
+The projects is licensed under: MIT  
+![badge](https://img.shields.io/badge/license-MIT-blue)
 <br />
 
 
@@ -31,9 +30,9 @@ The projects is licensed under: GPL 3.0
 ​Contributors: undefined
 
 ## Tests
-To perform necessary tests, run the following in the console: test
+To perform necessary tests, run the following in the console: 
 
 ## Questions
-Please reach out at [GitHub](https://github.com/test) 
+Please reach out at [GitHub](https://github.com/) 
 or 
-Contact test at test with questions.
+Contact  at  with questions.

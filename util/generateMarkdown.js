@@ -8,8 +8,7 @@ return `
 
 <h1 align="center">${data.title}</h1>
 
-![badge](https://img.shields.io/badge/license-${data.license}-blue)
-<br />
+https://github.com/${data.username}/${data.title}
 
 ## Description
 ${data.description}
