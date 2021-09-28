@@ -1,4 +1,4 @@
-// function to generate markdown for README
+// function to generate README markdown
 
 function generateMarkdown(data) {
     console.log(data)
