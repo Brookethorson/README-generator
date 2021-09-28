@@ -1,10 +1,12 @@
 
 
 <h1 align="center">test</h1>
-  
+
+![badge](https://img.shields.io/badge/license-GPL 3.0-blue)
+<br />
 
 ## Description
-this is a test
+test
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,14 +16,14 @@ this is a test
 * [Questions](#questions)
 
 ## Installation
-To install the necessary dependancies, run the following in console: test
+To install the necessary dependancies, run the following in console: 
 
 ## Usage
-test
+
 
 ## License
-The projects is licensed under: MIT  
-![badge](https://img.shields.io/badge/license-MIT-blue)
+The projects is licensed under: GPL 3.0  
+![badge](https://img.shields.io/badge/license-GPL 3.0-blue)
 <br />
 
 
