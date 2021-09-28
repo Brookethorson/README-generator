@@ -2,7 +2,7 @@
 
 <h1 align="center">test</h1>
 
-https://github.com/test/test
+https://github.com//test
 
 ![badge](https://img.shields.io/badge/license-MIT-blue) <br />
 
@@ -30,13 +30,13 @@ The projects is licensed under: MIT
 
 
 ## Contribution
-​Contributors: test
+​Contributors: 
 
 ## Tests
 To perform necessary tests, run the following in the console:
- test
+ 
 
 ## Questions
-Please reach out at [GitHub](https://github.com/test) 
+Please reach out at [GitHub](https://github.com/) 
 or 
-Contact test at test with questions.
+Contact  at  with questions.
