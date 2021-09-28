@@ -5,13 +5,10 @@
 function generateMarkdown(data) {
     console.log(data)
     console.log(data.title, data.email)
+return `
 
-
-return`
-<h1 align ="center">${data.title} </h1>  
-![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br /> 
-
-https://github.com/${data.username}/${data.title}
+<h1 align="center">${data.title}</h1>
+  
 
 ## Description
 ${data.description}
@@ -31,7 +28,7 @@ ${data.usage}
 
 ## License
 The projects is licensed under: ${data.license}  
-![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+![badge](https://img.shields.io/badge/license-${data.license}-blue)
 <br />
 
 
