@@ -1,21 +1,27 @@
-// function to generate README markdown
+//Function to generate README markdown
+
+//Add badge 
 
 function generateMarkdown(data) {
     console.log(data)
     console.log(data.title, data.email)
-    return `
-# ${data.title}
+
+
+return`
+<h1 align ="center">${data.title} </h1>  
+![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br /> 
+
 https://github.com/${data.username}/${data.title}
 
 ## Description
 ${data.description}
-# Table of Contents 
+## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
 * [Tests](#tests)
-* [Contact](#contact)
+* [Questions](#questions)
 
 ## Installation
 To install the necessary dependancies, run the following in console: ${data.installation}
@@ -25,14 +31,17 @@ ${data.usage}
 
 ## License
 The projects is licensed under: ${data.license}  
+![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+<br />
 
-# Contribution
+
+## Contribution
 ​Contributors: ${data.contributing}
 
-# Tests
+## Tests
 To perform necessary tests, run the following in the console: ${data.tests}
 
-# Questions
+## Questions
 Please reach out at [GitHub](https://github.com/${data.username}) 
 or 
 Contact ${data.username} at ${data.email} with questions.
