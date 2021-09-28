@@ -38,7 +38,9 @@ See the gif below for a snapshot of the applications functionality:
 
 ![README Generator Gif](./src/README-generator.gif)
 
-The full functionality demonstration can be found [here](.src\README-generator.webm.crdownload)
+
+
+The full functionality demonstration can be found [here]
 
 ## Author
 
