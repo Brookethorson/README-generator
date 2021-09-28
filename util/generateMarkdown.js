@@ -33,7 +33,7 @@ The projects is licensed under: ${data.license}
 
 
 ## Contribution
-​Contributors: ${data.contributing}
+​Contributors: ${data.contribution}
 
 ## Tests
 To perform necessary tests, run the following in the console: ${data.tests}
