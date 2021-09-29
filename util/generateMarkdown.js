@@ -10,7 +10,7 @@ return `
 
 https://github.com/${data.username}/${data.title}
 
-![badge](https://img.shields.io/badge/license-${data.license}-blue) <br />
+![badge](https://img.shields.io/badge/license-${data.license}-blue)<br />
 
 ## Description
 ${data.description}
@@ -31,8 +31,7 @@ ${data.usage}
 
 ## License
 The projects is licensed under: ${data.license}  
-![badge](https://img.shields.io/badge/license-${data.license}-blue)
-<br />
+![badge](https://img.shields.io/badge/license-${data.license}-blue)<br />
 
 
 ## Contribution

@@ -4,7 +4,7 @@
 
 https://github.com/Brookethorson/readme-generator
 
-![badge](https://img.shields.io/badge/license-APACHE 2.0-blue) <br />
+![badge](https://img.shields.io/badge/license-MIT-blue)<br />
 
 ## Description
 The purpose of this project is to develop a dynamic README generator using node.js that allows developers to quickly and easily develop a README file for new projects.
@@ -18,15 +18,14 @@ The purpose of this project is to develop a dynamic README generator using node.
 
 ## Installation
 To install the necessary dependancies, run the following in console: 
-node.js, npm init, npm install inquirer
+node js, npm init, npm install inquirer
 
 ## Usage
-This is a test.
+The README for this specific project, containing the demo and the USer stories is located in projectREADME.
 
 ## License
-The projects is licensed under: APACHE 2.0  
-![badge](https://img.shields.io/badge/license-APACHE 2.0-blue)
-<br />
+The projects is licensed under: MIT  
+![badge](https://img.shields.io/badge/license-MIT-blue)<br />
 
 
 ## Contribution
